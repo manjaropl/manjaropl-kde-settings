@@ -1,0 +1,1 @@
+# manjaropl-kde-settings
